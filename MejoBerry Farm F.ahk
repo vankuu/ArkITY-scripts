@@ -1,4 +1,4 @@
-﻿F::
+﻿F6::
     ; Press the 'F' key to open the inventory
     Send, {F}
     Sleep, %delayOpenInvetory% ; Adjust this delay based on your game's responsiveness
